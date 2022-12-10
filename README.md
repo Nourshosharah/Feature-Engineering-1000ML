@@ -37,7 +37,7 @@
 | video-6     | https://www.youtube.com/watch?v=T18rp49owgM     |
 
 
-3 .## Kaggle notebook
+3. ## Kaggle notebook
 
 | notebook-num  | link |
 | ------------- |:-------------:|
