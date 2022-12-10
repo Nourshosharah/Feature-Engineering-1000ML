@@ -90,3 +90,27 @@
 | Article-1     | https://analyticsindiamag.com/a-complete-guide-to-categorical-data-encoding    |
 | Article-2      | https://www.analyticsvidhya.com/blog/2020/08/types-of-categorical-data-encoding/     |
 | Article-3      | https://www.geeksforgeeks.org/feature-encoding-techniques-machine-learning/     |
+
+
+
+
+
+
+### Feature scaling : Numerical
+* ## videos 
+| video-num  | link |
+| ------------- |:-------------:|
+| video-1     | https://www.youtube.com/watch?v=31_JLKI8xPQ    |
+| video-2    | https://www.youtube.com/watch?v=Dch6J3HzIOw   |
+| video-3      | https://www.youtube.com/watch?v=4RmXXNxAves   |
+| video-4      |   https://www.youtube.com/watch?v=wFuBUbfixzU   |
+| video-5     |   https://www.youtube.com/watch?v=ZddUwo4R5ug   |
+
+
+
+* ## Article 
+
+| Article-num  | link |
+| ------------- |:-------------:|
+| Article-1     |https://www.analyticsvidhya.com/blog/2020/04/feature-scaling-machine-learning-normalization-standardization/g    |
+| Article-2      | https://www.geeksforgeeks.org/ml-feature-scaling-part-2/    |
