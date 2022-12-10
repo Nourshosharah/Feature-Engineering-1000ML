@@ -37,10 +37,12 @@
 | video-6     | https://www.youtube.com/watch?v=T18rp49owgM     |
 
 
-3. kaggle notebooks
+3.## Kaggle notebook
+
 | notebook-num  | link |
 | ------------- |:-------------:|
-| notebook-1    | https://www.kaggle.com/code/rtatman/data-cleaning-challenge-handling-missing-values     |
-| notebook-2    | https://www.kaggle.com/code/rtatman/data-cleaning-challenge-scale-and-normalize-data    |
-| notebook-3     | https://www.kaggle.com/code/chadalee/olympics-data-cleaning-exploration-prediction     |
-| notebook-4     | https://www.kaggle.com/code/milankalkenings/comprehensive-tutorial-data-cleaning     |
+| notebook-1     | https://www.kaggle.com/code/rtatman/data-cleaning-challenge-handling-missing-values     |
+| notebook-2      | right bar     |
+| notebook-3      | right baz     |
+| notebook-4      | right baz     |
+
