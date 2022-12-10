@@ -38,7 +38,7 @@
 
 
 3. kaggle notebooks
-  | notebook-num  | link |
+| notebook-num  | link |
 | ------------- |:-------------:|
 | notebook-1     | https://www.kaggle.com/code/rtatman/data-cleaning-challenge-handling-missing-values     |
 | notebook-2    | https://www.kaggle.com/code/rtatman/data-cleaning-challenge-scale-and-normalize-data     |
